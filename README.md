@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 Beginner Bubble Developer | Exploring No-Code Possibilities
+🚀 Bubble Developer | Exploring No-Code Possibilities
 
 I've built 3 showcase apps using Bubble.io to explore what’s possible with no-code development — messenger app to online store and API integrations.
 
